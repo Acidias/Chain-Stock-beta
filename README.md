@@ -2,6 +2,7 @@
  
 This version have the responsive navbar with a Home page, Companies, Trade and Wallet Connect
 
+
 Home Page:
 Just basic text
 
@@ -13,6 +14,7 @@ Working crypto exchange, but pairs are not set up correctly
 
 # compList.js
 example:
+```js
 const compList = [
     {
         name: 'Apple',
@@ -23,3 +25,4 @@ const compList = [
         shares: 100,
     }
 ]
+```
