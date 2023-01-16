@@ -18,11 +18,16 @@ Added CompanyProfile.
 
 # Update 15/01/2023
 Made Phone responsive (Sandwitch button).
+
+
 Added Companies and CompanyCard.
+
 Made multiple sides (Home, Companies, Trade).
+
 
 # Update 13/01/2023
 Created React (Single page, Connect Wallet, Exchange (Trade Site)).
+
 Added Liquidity and Created the Token Pairs.
 Created Tokens .
 Created Smart Contract (CRANQ).
