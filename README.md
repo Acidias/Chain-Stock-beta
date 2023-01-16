@@ -12,6 +12,23 @@ Maping trough all the companies listed in the compList.js file and listing them 
 Trade:
 Working crypto exchange, but pairs are not set up correctly
 
+
+#Update 16/01/2023
+Added CompanyProfile
+
+#Update 15/01/2023
+Made Phone responsive (Sandwitch button)
+Added Companies and CompanyCard
+Made multiple sides (Home, Companies, Trade)
+
+#Update 13/01/2023
+Created React (Single page, Connect Wallet, Exchange (Trade Site))
+Added Liquidity and Created the Token Pairs
+Created Tokens 
+Created Smart Contract (CRANQ)
+Create
+
+
 # compList.js
 example:
 ```js
@@ -26,3 +43,5 @@ const compList = [
     }
 ]
 ```
+
+
