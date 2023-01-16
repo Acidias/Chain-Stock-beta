@@ -33,7 +33,7 @@ Created Tokens
 
 Created Smart Contract (CRANQ).
 
-Create
+Start
 
 
 # compList.js
