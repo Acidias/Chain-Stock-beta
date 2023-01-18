@@ -12,6 +12,8 @@ Maping trough all the companies listed in the compList.js file and listing them 
 Trade:
 Working crypto exchange, but pairs are not set up correctly
 
+#Update 17/01/2023
+Minor update, Invest PopUp windows created.
 
 # Update 16/01/2023
 Added CompanyProfile.
