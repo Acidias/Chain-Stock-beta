@@ -12,6 +12,11 @@ Maping trough all the companies listed in the compList.js file and listing them 
 Trade:
 Working crypto exchange, but pairs are not set up correctly
 
+#Update 20/01/2023
+Worked on responsive site.
+Added Transparent Background if investmodal is open
+Added few extra details to Company Site
+
 #Update 17/01/2023
 Minor update, Invest PopUp windows created.
 
