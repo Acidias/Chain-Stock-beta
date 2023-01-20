@@ -60,6 +60,11 @@ const compList = [
         price: 100,
         description: 'Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services.',
         shares: 100,
+        ceo: 'Tim Cook',
+        headquarters: 'Cupertino, California, U.S.',
+        founded: 'April 1, 1976; 45 years ago',
+        employees: '147,000',
+        sector: 'Consumer Electronics, Computer Hardware, Software, Online Services'
     }
 ]
 ```
