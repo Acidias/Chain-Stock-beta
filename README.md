@@ -12,11 +12,22 @@ Maping trough all the companies listed in the compList.js file and listing them 
 Trade:
 Working crypto exchange, but pairs are not set up correctly
 
-#Update 17/01/2023
+
+# Update 20/01/2023
+Worked on responsive site.
+
+Added Transparent Background if investmodal is open
+
+Added few extra details to Company Site
+
+
+# Update 17/01/2023
 Minor update, Invest PopUp windows created.
+
 
 # Update 16/01/2023
 Added CompanyProfile.
+
 
 # Update 15/01/2023
 Made Phone responsive (Sandwitch button).
@@ -49,6 +60,11 @@ const compList = [
         price: 100,
         description: 'Apple Inc. is an American multinational technology company headquartered in Cupertino, California, that designs, develops, and sells consumer electronics, computer software, and online services.',
         shares: 100,
+        ceo: 'Tim Cook',
+        headquarters: 'Cupertino, California, U.S.',
+        founded: 'April 1, 1976; 45 years ago',
+        employees: '147,000',
+        sector: 'Consumer Electronics, Computer Hardware, Software, Online Services'
     }
 ]
 ```
