@@ -13,6 +13,10 @@ Trade:
 Working crypto exchange, but pairs are not set up correctly
 
 
+# Update 24/01/2023
+Token Balance Added Dynamically to the CompanyProfile.js
+It's get the Company address form the compList.js where the I added a new key as address
+
 # Update 20/01/2023
 Worked on responsive site.
 
@@ -64,7 +68,8 @@ const compList = [
         headquarters: 'Cupertino, California, U.S.',
         founded: 'April 1, 1976; 45 years ago',
         employees: '147,000',
-        sector: 'Consumer Electronics, Computer Hardware, Software, Online Services'
+        sector: 'Consumer Electronics, Computer Hardware, Software, Online Services',
+        address: '0x645c179Bbb630D0CAD2C18894dCE00aF3A0ab17e'
     }
 ]
 ```
